@@ -9,7 +9,7 @@ function pasanganTerbesar(num) {
     add.push(nilai);
   }
   var urut = add.sort();
-  return urut[urut.length - 1]
+  return Number(urut[urut.length - 1])
 }
 
 

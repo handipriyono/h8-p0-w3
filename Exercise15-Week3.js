@@ -20,7 +20,7 @@ function groupAnimals(animals) {
 
   }
 
-  // Make array unique and no duplicate
+  // Make array unique and no duplicate// test
   var ArrayUnik = [];
   var itemsFound = {};
   for (var i = 0, l = arrayHasil.length; i < l; i++) {
